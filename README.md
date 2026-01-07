@@ -1,4 +1,4 @@
-# 📊 Skill Learning Tracker – Excel Dashboard  
+# 📊 Skill Learning Tracker Dashboard 
 
 ## 📌 Project Overview  
 The Skill Learning Tracker – Excel Dashboard is a structured and interactive project designed to track and analyze an individual’s skill development journey. This dashboard helps monitor learning progress, confidence levels, and time invested across multiple skills, enabling better self-assessment and continuous improvement.
